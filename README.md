@@ -1,5 +1,3 @@
-# climate-cobenefits-dashboard
-climate-cobenefits-dashboard
 # UK Climate Action Co-Benefits Dashboard - Code Documentation
 
 ## Project Overview
