@@ -1,0 +1,65 @@
+{
+  "cobenefits": [
+    {
+      "id": "air_quality",
+      "name": "Air Quality",
+      "category": "health"
+    },
+    {
+      "id": "physical_activity",
+      "name": "Physical Activity",
+      "category": "health"
+    },
+    {
+      "id": "noise",
+      "name": "Noise Reduction",
+      "category": "environment"
+    },
+    {
+      "id": "excess_cold",
+      "name": "Excess Cold Prevention",
+      "category": "health"
+    },
+    {
+      "id": "diet_change",
+      "name": "Diet Change",
+      "category": "health"
+    },
+    {
+      "id": "dampness",
+      "name": "Dampness Reduction",
+      "category": "health"
+    },
+    {
+      "id": "excess_heat",
+      "name": "Excess Heat Prevention",
+      "category": "health"
+    },
+    {
+      "id": "hassle_costs",
+      "name": "Hassle Costs",
+      "category": "cost"
+    },
+    {
+      "id": "congestion",
+      "name": "Congestion",
+      "category": "transport"
+    },
+    {
+      "id": "road_safety",
+      "name": "Road Safety",
+      "category": "transport"
+    },
+    {
+      "id": "road_repairs",
+      "name": "Road Repairs",
+      "category": "transport"
+    }
+  ],
+  "period": {
+    "start": 2025,
+    "end": 2050
+  },
+  "total_areas": 46426,
+  "units": "Million GBP (Net Present Value)"
+}
