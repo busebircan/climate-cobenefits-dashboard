@@ -1,0 +1,74 @@
+{
+  "total_areas": 46426,
+  "total_cobenefits_million_gbp": 145621.37257271103,
+  "mean_per_area_million_gbp": 3.1368367527456438,
+  "median_per_area_million_gbp": 2.295511048,
+  "cobenefit_totals": {
+    "air_quality": {
+      "total_million_gbp": 48259.408723722,
+      "mean_per_area": 1.0394909904734848,
+      "positive_areas": 46423,
+      "negative_areas": 0
+    },
+    "congestion": {
+      "total_million_gbp": -7623.782006454001,
+      "mean_per_area": -0.16421363043238704,
+      "positive_areas": 4,
+      "negative_areas": 33363
+    },
+    "dampness": {
+      "total_million_gbp": 641.798414761,
+      "mean_per_area": 0.013824116115129454,
+      "positive_areas": 45633,
+      "negative_areas": 0
+    },
+    "diet_change": {
+      "total_million_gbp": 5054.870250856,
+      "mean_per_area": 0.10888015876569164,
+      "positive_areas": 45856,
+      "negative_areas": 0
+    },
+    "excess_cold": {
+      "total_million_gbp": 8801.601831185,
+      "mean_per_area": 0.189583462524986,
+      "positive_areas": 45714,
+      "negative_areas": 0
+    },
+    "excess_heat": {
+      "total_million_gbp": 0.11050873400000001,
+      "mean_per_area": 2.3803199500280017e-06,
+      "positive_areas": 45071,
+      "negative_areas": 551
+    },
+    "hassle_costs": {
+      "total_million_gbp": -70842.515873756,
+      "mean_per_area": -1.5260219260658725,
+      "positive_areas": 0,
+      "negative_areas": 46423
+    },
+    "noise": {
+      "total_million_gbp": 34207.746110010004,
+      "mean_per_area": 0.736823032568173,
+      "positive_areas": 33421,
+      "negative_areas": 0
+    },
+    "physical_activity": {
+      "total_million_gbp": 129879.193587864,
+      "mean_per_area": 2.797552957133158,
+      "positive_areas": 45753,
+      "negative_areas": 0
+    },
+    "road_repairs": {
+      "total_million_gbp": -327.174916846,
+      "mean_per_area": -0.007047234671218713,
+      "positive_areas": 0,
+      "negative_areas": 32697
+    },
+    "road_safety": {
+      "total_million_gbp": -2429.884055286,
+      "mean_per_area": -0.052338863035497354,
+      "positive_areas": 0,
+      "negative_areas": 32912
+    }
+  }
+}
