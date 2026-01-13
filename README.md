@@ -38,6 +38,8 @@ The visual design reinforces the environmental theme through a carefully crafted
 
 The color palette uses accessible combinations that meet WCAG contrast standards, ensuring readability for all users. Green indicates benefits, amber represents costs, and the overall aesthetic communicates professionalism appropriate for policy and research audiences.
 
+See published project here: https://climate.buse.work/
+
 ## Technology Stack
 
 The dashboard is built with modern web technologies optimized for performance, maintainability, and developer experience.
